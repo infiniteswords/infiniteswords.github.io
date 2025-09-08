@@ -1,28 +1,62 @@
- 
 body {
-  font-family: system-ui, sans-serif;
-  background: #0d0d0d;
-  color: #e8e8e8;
-  margin: 0;
-  padding: 2rem;
+  margin: auto;
+  padding:2em;
+  font-family: "Verdana", impact, sans-serif;
   line-height: 1.6;
+  background: #ffffff;
+  color: #111111;
 }
+
+h1, h2, h3 {
+  color: #b00000;
+}
+
 a {
-  color: #00ffc2;
+  color: #b00000;
   text-decoration: none;
 }
-a:hover {
+ a:hover {
   text-decoration: underline;
 }
-header, section, footer {
-  max-width: 800px;
-  margin: auto;
+
+
+
+/* ===== Shared Styles ===== */
+header, footer {
+  padding: 1em;
+  text-align: center;
 }
-h1 {
-  font-size: 2.5rem;
-  border-bottom: 2px solid #333;
-  padding-bottom: 0.5rem;
+
+
+ul {
+  margin: 1em 0;
+  padding-left: 1.5em;
 }
-h2, h3 {
-  color: #ff4682;
+
+strong {
+  color: inherit;
 }
+
+
+/* Mobile optimization */
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;   /* slightly larger for readability */
+    line-height: 1.8;  /* more breathing room on phones */
+  }
+
+  main {
+    padding: 1em;      /* reduce padding on small screens */
+  }
+
+  h1 {
+    font-size: 1.6em;
+  }
+
+  h2 {
+    font-size: 1.3em;
+  }
+
+  h3 {
+    font-size: 1.1em;
+  }
