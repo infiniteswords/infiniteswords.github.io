@@ -5,6 +5,7 @@ body {
   line-height: 1.6;
   background: #ffffff;
   color: #111111;
+ 
 }
 
 h1, h2, h3 {
@@ -19,7 +20,14 @@ a {
   text-decoration: underline;
 }
 
-
+.stamp{
+	max-width:600px;
+	margin:3rem auto;
+	padding:1.5rem;
+	border: 2px solid currentColor;
+	border-radius:8px;
+	
+}
 
 /* ===== Shared Styles ===== */
 header, footer {
@@ -27,7 +35,7 @@ header, footer {
   text-align: center;
 }
 
-
+header h4, header p{margin:0;}
 ul {
   margin: 1em 0;
   padding-left: 1.5em;
@@ -38,6 +46,29 @@ strong {
 }
 
 
+
+
+  figure{
+	 text-align:center;'
+margin: 20px 0;	 
+  }
+  
+  figcaption{
+	  font-size:.9em;
+	  color:#555;
+	  margin-top:8px;
+  }
+  
+  
+  img {
+	  max-width: 85%;
+	  height: auto;
+	  display: block !important;
+	  margin-left: auto !important;
+	  margin-right: auto !important;
+  }
+  
+  
 /* Mobile optimization */
 @media (max-width: 600px) {
   body {
@@ -50,7 +81,7 @@ strong {
   }
 
   h1 {
-    font-size: 1.6em;
+    font-size: 1.5em;
   }
 
   h2 {
@@ -59,4 +90,43 @@ strong {
 
   h3 {
     font-size: 1.1em;
-  }
+}}
+  
+  
+
+
+
+/* === STRUCTURAL TABLE READABILITY (DAY + NIGHT SAFE) === */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+/* Use currentColor so borders follow text contrast */
+th,
+td {
+  border: 1px solid currentColor;
+  padding: 0.35em 0.5em;
+  vertical-align: top;
+}
+
+/* Headers must read as headers in any theme */
+th {
+  font-weight: 600;
+  text-align: left;
+}
+
+/* Numeric alignment survives theme inversion */
+.num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Prevent visual collapse */
+td,
+th {
+  white-space: normal;
+}
+
+
