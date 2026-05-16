@@ -8,13 +8,33 @@ body {
  
 }
 
-h1, h2, h3 {
-  color: #b00000;
+h1 {
+  color: #800;
+
+/* #b00000; */
 }
 
-a {
-  color: #b00000;
+h2  {
+  color: #0A3D62 ;
+}
+
+h3  {
+  color: #B8860B;
+}
+
+
+h4  {
+  color: #B8860B;
+}
+
+
+a { 
+
+ 
+ color: #800;  
+
   text-decoration: none;
+  font-weight:bold;
 }
  a:hover {
   text-decoration: underline;
@@ -48,25 +68,29 @@ strong {
 
 
 
-  figure{
-	 text-align:center;'
-margin: 20px 0;	 
-  }
-  
-  figcaption{
-	  font-size:.9em;
-	  color:#555;
-	  margin-top:8px;
-  }
-  
-  
-  img {
-	  max-width: 85%;
-	  height: auto;
-	  display: block !important;
-	  margin-left: auto !important;
-	  margin-right: auto !important;
-  }
+  figure {
+    text-align: center;
+    margin: 20px 0;
+    border: 3px solid green;
+    border-radius: 20px; 
+    padding: 10px;
+    display: inline-block;
+}
+
+figcaption {
+    font-size: .9em;
+    color: #9370DB;
+    border-top: 2px solid;
+    margin-top: 8px;
+}
+
+img {
+    max-width: 85%;
+    height: auto;
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
   
   
 /* Mobile optimization */
