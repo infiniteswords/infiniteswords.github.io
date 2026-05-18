@@ -1,0 +1,22 @@
+SUBJECT: Terms of Service Violation Report – [dakinitranslations.com]
+HEADING: Harassment, Bullying, and Unauthorized Processing of Private Information
+
+To the Automattic Terms of Service / Abuse Review Team,
+
+I am writing as an independent public observer to formally report a systemic and ongoing violation of the WordPress.com User Guidelines and Terms of Service regarding Harassment, Bullying, and Privacy Violations on the hosted domain: [dakinitranslations.com].
+
+Specifically, the article published on May 9, 2026, SEO-keywords targeting "Mingyur Rinpoche Abuse Women" (URL: https://dakinitranslations.com/2026/05/09/mingyur-rinpoche-abuse-women/) directly breaches your platform boundaries in the following ways:
+
+1. UNAUTHORIZED SEIZURE AND DISTRIBUTION OF PRIVATE BIOMETRIC DATA: 
+The site administrator explicitly confesses in the text to publishing leaked, private audio voice notes of a third party ("Ma Tara Palmo") without her documented legal consent, openly stating: "I am releasing for the first time audio messages from Ma Tara Palmo (I do not know her real name)." This represents an illegal cross-border distribution of private data and a severe violation of WordPress privacy protections.
+
+2. TARGETED CYBER-HARASSMENT AND DEFAMATION:
+The site utilizes Automattic's infrastructure to launch personalized extrajudicial targeting campaigns, publishing unverified accusations of criminal corruption and malicious mental instability against private citizens and international religious figures, completely bypassing formal judicial scrutiny.
+
+3. FORENSIC CORROBORATION OF COORDINATED REPUTATIONAL HARASSMENT:
+Independent data and engagement tracking archived via the Public Accountability Archive (https://infiniteswords.github.io/math.html) establishes that this domain operates as part of a coordinated network utilizing artificial telemetry manipulation to amplify these high-liability, harmful personal attacks.
+
+As an infrastructure provider, Automattic is now on notice that its servers are being leveraged to host non-consensual private media leaks and targeted harassment campaigns. We request an immediate review and total suspension of the offending assets in compliance with your User Guidelines.
+
+Sincerely,
+[Your Name / Independent Observer]
