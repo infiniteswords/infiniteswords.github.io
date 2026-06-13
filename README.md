@@ -52,8 +52,7 @@ Their presence here documents **that removal event** as part of the public recor
 
 ## Use and Citation
 
-Researchers, journalists, and members of the public may reference this repository as a **source archive**, with appropriate citation to original authorship and publication context.
-
+Researchers, journalists, and members of the public may utilize this repository freely as a definitive **source archive**, no citations needed.
 ---
 
 ## Contact
