@@ -13,10 +13,10 @@ The Public Accountability Registry (PAR) was established as an independent, evid
 
 
 ### Registry Architecture
-This terminal provides documented evidence of systematic, coordinated inauthentic behavior, predatory harassment, and institutional subversion. 
-
+This terminal provides documented evidence of systematic, coordinated inauthentic behavior, predatory harassment, and institutional subversion.
 
 Navigational Element	Assigned ID 	Moniker	Purpose
+
 SOLVE	[PAR-AUD-GREM-2026-V1-SOLVE]	Metric fraud audits, website forensic reports, and analytics.  
 DECODE	[PAR-AUD-GREM-2026-V1-DECODE]	Narrative pillar analysis (mind, speech, body) and behavioral profiling.  
 CONCLUDE	[PAR-AUD-GREM-2026-V1-CONCLUDE]	Primary forensic profiles and colonization assessments.  
